@@ -1,0 +1,19 @@
+*-TEST_2
+|   
++---* schedule (app folder)
+|   |
+|   |
+|   |
+|   |
++---* TEST_2 (project folder)
+|   |
+|   |-settings.py
+|   |-urls.py
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |

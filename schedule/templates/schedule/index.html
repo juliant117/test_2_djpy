@@ -1,0 +1,17 @@
+{% load static %}
+
+<link rel="stylesheet" href="{% static 'schedule/style.css' %}">
+
+{% if latest_question_list %}
+    <ul>
+    {% for question in latest_question_list %}
+       <!-- This is a comment  <li><a href="/schedule/{{ question.id }}/">{{ question.question_text }}</a></li>
+       -->
+       <li><a href="{% url 'schedule:detail' question.id %}">{{ question.question_text }}</a></li>   
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No schedule are available.</p>
+{% endif %}
+
+
