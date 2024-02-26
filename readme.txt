@@ -1,7 +1,12 @@
 #project test_2 
 it is a project to trie to create a web wit django and trie to deploy it in google cloud
 
-#----------------- django -----------------------------------
+#----------------- doc -----------------------------------
+#https://app.diagrams.net/?src=about#We412c17925234946%2FE412C17925234946!584397#%7B%22pageId%22%3A%22PlnUJ2s29txGuvlGR00J%22%7D
+#https://github.com/juliant117/test_2_djpy.git
+#https://testdriven.io/blog/django-gae
+#https://docs.djangoproject.com/en/5.0/intro/tutorial01
+
 
 #----------------- django -----------------------------------
 

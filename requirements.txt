@@ -1,3 +1,8 @@
 #libraries 
 #django
 django
+django-tables2
+django-crispy-forms
+django-environ
+
+psycopg2-binary
